@@ -16,9 +16,5 @@ The STATION table is described as follows:
 
 */
 
-/*
-Enter your query here.
-*/
-
 SELECT CITY, STATE
 FROM station
